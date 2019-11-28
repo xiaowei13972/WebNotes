@@ -32,7 +32,7 @@ Web前端讲义
   - Gulp自动化构建工具
   - WebPack
   - CSS预处理技术
-  - TypeScript
+  - [TypeScript](TypeScript/TypeScript.md)
   - [ESLint前端编码规范](ESLint/ESLint.md)
 - 跨平台开发
   - Electron PC端应用程序开发
